@@ -5,6 +5,7 @@ import numpy as np
 
 from random import randint
 
+# nikola is coool
 
 # 3D  array for the thing we want
 
